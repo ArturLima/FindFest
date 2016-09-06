@@ -1,0 +1,51 @@
+.fest-card.mdl-card {
+    width: 100%;
+}
+.fest-card > .mdl-card__title {
+    color: #fff;
+    height: 176px;
+    background: url('Images/absolut.jpg') center / cover;
+}
+.fest-card > .mdl-card__menu {
+    color: #fff;
+}
+
+body {
+    padding: 0 0 0 0;
+    background: #FFF ;
+}
+
+.fest-cards-container {
+    margin: 0 auto;
+}
+
+.android-be-together-section {
+  position: relative;
+  height: 100%;
+  width: auto;
+  background-color: #f3f3f3;
+  background: url('Images/background2.jpg') center 30% no-repeat;
+  background-size: cover;
+}
+
+.logo-font {
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  line-height: 1;
+  /*color: #767777;*/
+  font-weight: 500;
+}
+
+.android-slogan {
+  font-size: 60px;
+  padding-top: 260px;
+}
+
+.android-sub-slogan {
+  font-size: 21px;
+  padding-top: 24px;
+}
+
+.android-create-character {
+  font-size: 21px;
+  padding-top: 400px;
+}
